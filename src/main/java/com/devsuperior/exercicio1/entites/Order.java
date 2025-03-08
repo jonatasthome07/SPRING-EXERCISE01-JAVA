@@ -1,5 +1,4 @@
 package com.devsuperior.exercicio1.entites;
-
 import org.springframework.stereotype.Service;
 
 @Service
